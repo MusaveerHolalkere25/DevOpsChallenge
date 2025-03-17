@@ -1,0 +1,643 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+muzakeer          1037  38.8  2.2 1865544240 368624   ??  S     8:35PM   1:14.98 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=40 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1732833937 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=174
+muzakeer          1901   9.7  3.7 1252117352 613332   ??  R     9:17PM   3:33.80 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Renderer).app/Contents/MacOS/Code Helper (Renderer) --type=renderer --user-data-dir=/Users/muzakeer/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/Users/muzakeer/Applications/Visual Studio Code.app/Contents/Resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1742222201145810 --launch-time-ticks=4255235826 --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --vscode-window-config=vscode:d03f12a5-9aa3-48fa-b109-9f0cfc2475ee --seatbelt-client=63
+muzakeer          3330   7.6  0.0 33870536   3384 s002  S+   10:17PM   0:00.03 sh ./list_processes.sh
+muzakeer          2045   5.5  0.0 34065896   5384 s002  Ss    9:22PM   0:03.30 /bin/zsh -il
+_windowserver      149   3.7  0.8 412427168 137952   ??  Ss   Sun09PM  12:41.44 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+muzakeer          1887   2.5  0.5 68074820  77148   ??  S     9:17PM   0:57.99 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (GPU).app/Contents/MacOS/Code Helper (GPU) --type=gpu-process --user-data-dir=/Users/muzakeer/Library/Application Support/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=36
+root              1445   2.4  0.1 426950752  14672   ??  Ss    8:57PM   0:10.55 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
+muzakeer          1883   2.1  1.8 1248590644 305432   ??  S     9:17PM   2:02.55 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/MacOS/Electron
+muzakeer          2039   1.6  0.7 1247987912 124416   ??  S     9:22PM   0:32.99 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-GB --service-sandbox-type=none --user-data-dir=/Users/muzakeer/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+_trustd            385   0.9  0.1 426963824  19584   ??  Ss   Sun09PM   0:55.12 /usr/libexec/trustd
+muzakeer           781   0.7  0.1 411641136  20448   ??  S     8:32PM   0:10.92 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+_oahd              553   0.2  0.0 426913088   3104   ??  Ss    7:38PM   0:01.09 /usr/libexec/rosetta/oahd
+muzakeer          1970   0.2  1.1 1247994412 183820   ??  S     9:19PM   0:45.58 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-GB --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --user-data-dir=/Users/muzakeer/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+root               123   0.1  0.1 426950992  10992   ??  Ss   Sun09PM   0:06.87 /System/Library/CoreServices/launchservicesd
+muzakeer          1002   0.1  0.1 426968208  18400   ??  Ss    8:33PM   0:02.33 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+muzakeer           996   0.1  0.4 444227168  60464   ??  S     8:33PM   0:00.75 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Plugin).app/Contents/MacOS/Google Chrome Helper (Plugin) --type=utility --utility-sub-type=video_capture.mojom.VideoCaptureService --lang=en-GB --service-sandbox-type=none --message-loop-type-ui --subproc-heap-profiling --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000
+root               146   0.1  0.1 426949920  16336   ??  Ss   Sun09PM   0:14.65 /usr/libexec/corebrightnessd --launchd
+root                 1   0.1  0.1 426852544  24128   ??  Ss   Sun09PM   0:43.30 /sbin/launchd
+root                82   0.1  0.3 427077808  57696   ??  Ss   Sun09PM   0:32.40 /usr/libexec/logd
+muzakeer           773   0.1  0.3 444192448  58128   ??  S     8:32PM   0:00.74 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=service --subproc-heap-profiling --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=48
+root                95   0.1  0.1 426950848  12448   ??  Ss   Sun09PM   0:11.26 /System/Library/CoreServices/powerd.bundle/powerd
+muzakeer           598   0.1  0.0 426917120   4144   ??  S     8:32PM   0:03.19 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root              2270   0.0  0.1 411350288  16592   ??  Ss    9:30PM   0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              2267   0.0  0.2 426997872  25760   ??  Ss    9:30PM   0:01.22 /System/Library/CoreServices/iconservicesagent runAsRoot
+root              2254   0.0  0.1 426953904  10784   ??  Ss    9:30PM   0:00.26 /usr/libexec/dprivacyd
+muzakeer          2250   0.0  0.0 426951744   7168   ??  Ss    9:30PM   0:00.08 /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/XPCServices/DPSubmissionService.xpc/Contents/MacOS/DPSubmissionService
+_applepay         2249   0.0  0.0 426916432   1760   ??  S     9:30PM   0:00.07 /usr/sbin/cfprefsd agent
+_rmd              2247   0.0  0.0 426916432   1760   ??  S     9:30PM   0:00.07 /usr/sbin/cfprefsd agent
+muzakeer          2244   0.0  0.1 426953920  11280   ??  S     9:30PM   0:00.41 /usr/libexec/dprivacyd
+_nsurlsessiond    2243   0.0  0.0 426916432   1712   ??  S     9:30PM   0:00.06 /usr/sbin/cfprefsd agent
+muzakeer          2232   0.0  0.0 426949200   7536   ??  S     9:30PM   0:00.11 /usr/libexec/ciphermld
+root              2223   0.0  0.1 426965472   9424   ??  Ss    9:30PM   0:00.65 /usr/libexec/griddatad
+muzakeer          2017   0.0  0.1 411244544  16896   ??  Ss    9:21PM   0:00.25 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+muzakeer          1979   0.0  0.0 34457876   3532   ??  S<    9:19PM   0:00.06 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Squirrel.framework/Resources/ShipIt com.microsoft.VSCode.ShipIt /Users/muzakeer/Library/Caches/com.microsoft.VSCode.ShipIt/ShipItState.plist
+muzakeer          1972   0.0  0.4 1246023644  74628   ??  S     9:19PM   0:07.50 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin) /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/markdown-language-features/dist/serverWorkerMain --node-ipc --clientProcessId=1970
+muzakeer          1969   0.0  0.5 1247993776  87164   ??  S     9:19PM   0:11.84 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-GB --service-sandbox-type=none --user-data-dir=/Users/muzakeer/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+muzakeer          1965   0.0  0.1 426901184  15040   ??  Ss    9:19PM   0:00.23 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+muzakeer          1964   0.0  0.4 411164000  73776   ??  Ss    9:19PM   0:01.71 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+muzakeer          1958   0.0  0.4 1865286704  69536   ??  S     9:18PM   0:00.12 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=93 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=4297977826 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=197
+muzakeer          1923   0.0  1.2 1247988504 194292   ??  S     9:17PM   0:46.43 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-GB --service-sandbox-type=none --user-data-dir=/Users/muzakeer/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version
+muzakeer          1921   0.0  0.0 426912400   2848   ??  S     9:17PM   0:00.02 /usr/libexec/spindump_agent
+muzakeer          1920   0.0  0.0 410934848   7584   ??  Ss    9:17PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          1919   0.0  0.1 411340544  18992   ??  Ss    9:17PM   0:00.63 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          1888   0.0  0.2 67901016  34236   ??  S     9:17PM   0:02.09 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper.app/Contents/MacOS/Code Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=network --user-data-dir=/Users/muzakeer/Library/Application Support/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files --field-trial-handle=1718379636,r,2710169782530928093,15787014515727637387,262144 --enable-features=ScreenCaptureKitPickerScreen,ScreenCaptureKitStreamPickerSonoma --disable-features=CalculateNativeWinOcclusion,MacWebContentsOcclusion,PlzDedicatedWorker,SpareRendererForSitePerProcess,TimeoutHangingVideoCaptureStarts --variations-seed-version --seatbelt-client=36
+muzakeer          1886   0.0  0.0 67369852   2756   ??  S     9:17PM   0:00.05 /Users/muzakeer/Applications/Visual Studio Code.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/muzakeer/Library/Application Support/Code/Crashpad --url=appcenter://code?aid=860d6632-f65b-490b-85a8-3e72944f7774&uid=b1738556-cb9c-4e26-89a3-bc58bad58ec4&iid=b1738556-cb9c-4e26-89a3-bc58bad58ec4&sid=b1738556-cb9c-4e26-89a3-bc58bad58ec4 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.97.0 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=32.2.7 --handshake-fd=24
+muzakeer          1884   0.0  0.1 426956368  17680   ??  S     9:17PM   0:00.19 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+muzakeer          1882   0.0  0.2 426984336  36864   ??  Ss    9:17PM   0:00.21 /System/Library/ExtensionKit/Extensions/TextThumbnailExtension.appex/Contents/MacOS/TextThumbnailExtension
+muzakeer          1878   0.0  1.1 1865352272 192096   ??  S     9:16PM   0:07.57 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=90 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=4190693770 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=183
+muzakeer          1873   0.0  1.3 1865526576 217024   ??  S     9:16PM   0:15.13 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=89 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=4185707519 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=178
+muzakeer          1716   0.0  1.6 1867260976 271920   ??  S     9:03PM   0:38.66 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=3433992455 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=189
+muzakeer          1694   0.0  0.2 426955232  26560   ??  S     9:03PM   0:00.44 /System/iOSSupport/System/Library/PrivateFrameworks/HomeEnergyDaemon.framework/Support/homeenergyd
+root              1664   0.0  0.1 426950816   8560   ??  Ss    9:01PM   0:18.86 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/Contents/MacOS/ANECompilerService
+root              1593   0.0  0.0 426949952   8160   ??  Ss    8:58PM   0:02.11 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+muzakeer          1585   0.0  0.0 410780816   5792   ??  S     8:58PM   0:00.08 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+muzakeer          1586   0.0  0.1 426967120  14368   ??  S     8:58PM   0:00.26 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+_gamecontrollerd  1443   0.0  0.0 410898816   4384   ??  S     8:57PM   0:00.11 /System/Library/PrivateFrameworks/GameControllerFoundation.framework/Versions/A/XPCServices/GameControllerConfigService.xpc/Contents/MacOS/GameControllerConfigService
+root              1371   0.0  0.2 426971024  27152   ??  Ss    8:54PM   0:05.01 /usr/sbin/spindump
+_datadetectors    1370   0.0  0.0 426911792   2688   ??  Ss    8:54PM   0:00.07 /usr/libexec/DataDetectorsSourceAccess
+muzakeer          1335   0.0  0.1 426952720   9120   ??  Ss    8:53PM   0:00.47 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+muzakeer          1325   0.0  0.0 426912560   3616   ??  S     8:53PM   0:00.08 /System/Library/CoreServices/Setup Assistant.app/Contents/Resources/mbuseragent
+_accessoryupdater  1320   0.0  0.0 426948256   4128   ??  Ss    8:52PM   0:00.12 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/EAUpdaterService.xpc/Contents/MacOS/EAUpdaterService
+muzakeer          1303   0.0  3.0 1892847408 501056   ??  S     8:51PM   0:52.89 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=59 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=2702933069 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=114
+muzakeer          1288   0.0  0.0 426955776   5744   ??  S     8:51PM   0:00.09 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+muzakeer          1287   0.0  0.0 426950016   7392   ??  S     8:51PM   0:00.09 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+muzakeer          1281   0.0  0.0 426950192   4976   ??  S     8:51PM   0:00.08 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+muzakeer          1279   0.0  0.1 426993328  17440   ??  S     8:51PM   0:00.77 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+muzakeer          1278   0.0  0.1 426976464   9408   ??  Ss    8:51PM   0:00.11 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+root              1273   0.0  0.0 410603648   2832   ??  Ss    8:50PM   0:00.04 /System/Library/PrivateFrameworks/OAHSoftwareUpdate.framework/Versions/A/XPCServices/RosettaUpdateService.xpc/Contents/MacOS/RosettaUpdateService
+muzakeer          1272   0.0  0.0 426945376   5776   ??  S     8:50PM   0:00.11 /usr/libexec/MTLAssetUpgraderD
+root              1261   0.0  0.4 412105232  65376   ??  Ss    8:50PM   6:43.31 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777234.370391.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.UpdateBrainService
+muzakeer          1259   0.0  0.1 426971424  14304   ??  Ss    8:50PM   0:06.70 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+muzakeer          1257   0.0  0.1 426960800  16304   ??  S     8:50PM   0:01.58 /usr/libexec/proactived
+root              1239   0.0  0.0 426950128   5328   ??  Ss    8:50PM   0:00.03 /usr/libexec/sysdiagnosed
+muzakeer          1235   0.0  0.0 410899696   5296   ??  Ss    8:50PM   0:00.11 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+muzakeer          1234   0.0  1.5 1867262640 247280   ??  S     8:50PM   0:11.39 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=58 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=2628366589 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=61
+muzakeer          1231   0.0  0.1 426955872  16352   ??  S     8:50PM   0:00.47 /System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+muzakeer          1230   0.0  0.1 426954256  12544   ??  S     8:50PM   0:00.16 /System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app/Contents/MacOS/privatecloudcomputed
+muzakeer          1225   0.0  0.0 410900832   6048   ??  Ss    8:50PM   0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ASConfigurationSubscriber.xpc/Contents/MacOS/ASConfigurationSubscriber
+muzakeer          1224   0.0  0.0 410734768   3872   ??  Ss    8:50PM   0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+muzakeer          1223   0.0  0.0 410878192   7424   ??  Ss    8:50PM   0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/AccountSubscriber.xpc/Contents/MacOS/AccountSubscriber
+muzakeer          1222   0.0  0.0 410865872   3792   ??  Ss    8:50PM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+muzakeer          1221   0.0  0.0 410734768   3776   ??  Ss    8:50PM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+muzakeer          1220   0.0  0.0 410735408   4048   ??  Ss    8:50PM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/MathSettingsSubscriber.xpc/Contents/MacOS/MathSettingsSubscriber
+muzakeer          1216   0.0  0.0 410866384   5712   ??  Ss    8:50PM   0:00.12 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+muzakeer          1215   0.0  0.0 410865840   3808   ??  Ss    8:50PM   0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+muzakeer          1214   0.0  0.0 410865904   3952   ??  Ss    8:50PM   0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+muzakeer          1213   0.0  0.0 410899824   5648   ??  Ss    8:50PM   0:00.11 /System/Library/PrivateFrameworks/SafariFoundation.framework/Versions/A/XPCServices/SafariConfigurationSubscriber.xpc/Contents/MacOS/SafariConfigurationSubscriber
+muzakeer          1212   0.0  0.0 426951008   8048   ??  S     8:50PM   0:00.18 /System/Library/PrivateFrameworks/RemoteManagement.framework/RemoteManagementAgent
+muzakeer          1211   0.0  0.0 426950288   7824   ??  S     8:50PM   0:00.91 /usr/libexec/proactiveeventtrackerd
+muzakeer          1210   0.0  0.1 426951872  10272   ??  S     8:50PM   0:00.23 /System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/Versions/A/intelligenceplatformd
+muzakeer          1209   0.0  0.2 427101344  41744   ??  S     8:50PM   0:00.37 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+muzakeer          1206   0.0  0.0 426912800   5840   ??  S     8:50PM   0:00.09 /usr/libexec/backgroundassets.user
+_spotlight        1204   0.0  0.0 426916816   6672   ??  S     8:50PM   0:06.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+muzakeer          1203   0.0  0.0 410899696   5264   ??  Ss    8:49PM   0:00.12 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+muzakeer          1196   0.0  0.0 427157552   6400   ??  Ss    8:49PM   0:00.25 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+muzakeer          1195   0.0  0.1 426948752   9840   ??  S     8:49PM   0:00.12 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+root              1188   0.0  0.0 426917008   3936   ??  Ss    8:49PM   0:00.04 /System/Library/PrivateFrameworks/PerfPowerServicesReader.framework/Versions/A/XPCServices/PerfPowerTelemetryReaderService.xpc/Contents/MacOS/PerfPowerTelemetryReaderService
+_nsurlsessiond    1167   0.0  0.0 410865920   3024   ??  Ss    8:49PM   0:45.22 /System/Library/PrivateFrameworks/StreamingExtractor.framework/Versions/A/XPCServices/STExtractionService.privileged.xpc/Contents/MacOS/STExtractionService.privileged
+root              1165   0.0  0.0 426916448   4992   ??  Ss    8:49PM   0:00.04 /usr/libexec/microstackshot
+_accessoryupdater  1162   0.0  0.0 426948016   3008   ??  S     8:48PM   0:00.11 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_accessoryupdater  1161   0.0  0.0 426952800   8048   ??  S     8:48PM   0:00.37 /usr/libexec/trustd --agent
+_accessoryupdater  1160   0.0  0.0 426916432   3216   ??  S     8:48PM   0:00.10 /usr/sbin/cfprefsd agent
+_accessoryupdater  1159   0.0  0.0 426949968   4592   ??  S     8:48PM   0:00.09 /usr/libexec/secinitd
+muzakeer          1158   0.0  0.1 427008528  18880   ??  S     8:48PM   0:00.35 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+_accessoryupdater  1157   0.0  0.1 426954064  15856   ??  S     8:48PM   0:00.71 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_accessoryupdater  1156   0.0  0.0 410900112   7264   ??  Ss    8:48PM   0:00.67 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+muzakeer          1146   0.0  0.2 427002384  30128   ??  S     8:46PM   0:00.64 /usr/libexec/studentd
+muzakeer          1140   0.0  0.1 426949776  15984   ??  S     8:46PM   0:00.07 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+muzakeer          1107   0.0  0.0 426912368   2800   ??  S     8:44PM   0:00.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper
+muzakeer          1105   0.0  0.0 411063872   3680   ??  Ss    8:44PM   0:00.02 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          1104   0.0  0.0 411060512   8096   ??  Ss    8:44PM   0:00.04 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          1099   0.0  0.0 410790208   4624 s000  S+    8:44PM   0:00.58 -zsh
+root              1098   0.0  0.0 410752848   3696 s000  Ss    8:44PM   0:00.01 login -pf muzakeer
+muzakeer          1095   0.0  0.8 412156880 132832   ??  S     8:44PM   0:27.16 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+muzakeer          1096   0.0  0.0 410925632   4272   ??  Ss    8:44PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          1097   0.0  0.0 411198016   3904   ??  Ss    8:44PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          1091   0.0  0.1 426960832   9792   ??  Ss    8:44PM   0:00.09 /System/Library/ExtensionKit/Extensions/PackageThumbnailExtension.appex/Contents/MacOS/PackageThumbnailExtension
+muzakeer          1090   0.0  0.1 426926768   9344   ??  Ss    8:44PM   0:00.16 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+muzakeer          1088   0.0  0.1 413737232  24672   ??  S     8:44PM   0:00.26 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/managedcorespotlightd
+root              1082   0.0  0.0 426950464   7552   ??  Ss    8:44PM   0:07.29 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/Contents/MacOS/ANECompilerService
+muzakeer          1078   0.0  0.0 426894976   5008   ??  Ss    8:40PM   0:00.06 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+muzakeer          1077   0.0  0.0 410305648   2992   ??  Ss    8:40PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer          1072   0.0  1.1 1867250880 180752   ??  S     8:39PM   0:03.66 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=51 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1978424740 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=59
+muzakeer          1069   0.0  0.1 426922128  11904   ??  Ss    8:38PM   0:00.05 /System/Library/ExtensionKit/Extensions/IFTranscriptSELFIngestor.appex/Contents/MacOS/IFTranscriptSELFIngestor
+muzakeer          1068   0.0  0.1 426922272  10960   ??  Ss    8:38PM   0:00.05 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+muzakeer          1067   0.0  0.1 426958672  11824   ??  Ss    8:38PM   0:00.05 /System/Library/ExtensionKit/Extensions/GMSSELFIngestor.appex/Contents/MacOS/GMSSELFIngestor
+muzakeer          1066   0.0  0.1 426926224  12128   ??  Ss    8:38PM   0:00.08 /System/Library/ExtensionKit/Extensions/BiomeSELFIngestor.appex/Contents/MacOS/BiomeSELFIngestor
+muzakeer          1065   0.0  0.0 426917008   4592   ??  Ss    8:38PM   0:00.12 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+muzakeer          1064   0.0  0.1 410787120  16960   ??  Ss    8:38PM   0:00.45 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+muzakeer          1063   0.0  0.1 426949680  12320   ??  S     8:38PM   0:00.16 /usr/libexec/bluetoothuserd
+muzakeer          1043   0.0  0.3 427136000  48656   ??  S     8:36PM   0:00.74 /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+muzakeer          1040   0.0  0.7 1865327600 119392   ??  S     8:35PM   0:01.95 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=42 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1758495759 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=174
+muzakeer          1039   0.0  1.4 1865332224 238320   ??  S     8:35PM   0:15.87 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=41 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1756177819 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=174
+muzakeer          1038   0.0  0.1 410692112   9920   ??  Ss    8:35PM   0:00.35 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+root              1031   0.0  0.0 426949792   7696   ??  Ss    8:34PM   0:00.08 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectUpdateService.xpc/Contents/MacOS/XProtectUpdateService
+muzakeer          1029   0.0  0.0 426950848   5616   ??  S     8:34PM   0:00.09 /usr/libexec/swtransparencyd
+root              1030   0.0  0.0 426912448   3008   ??  Ss    8:34PM   0:00.04 /usr/libexec/tzd
+muzakeer          1013   0.0  0.6 1865339888 109008   ??  S     8:34PM   0:00.57 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=37 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1660861268 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=170
+muzakeer          1011   0.0  2.2 1867312672 376704   ??  S     8:34PM   0:46.23 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=35 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1659013801 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=170
+root              1010   0.0  0.0 426912384   4032   ??  Ss    8:34PM   0:00.03 /System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd
+muzakeer          1009   0.0  0.1 426960288  18976   ??  S     8:34PM   0:01.31 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+muzakeer          1007   0.0  0.0 426949296   5488   ??  S     8:34PM   0:00.08 /usr/libexec/betaenrollmentd
+muzakeer          1006   0.0  0.1 426957600  17200   ??  S     8:34PM   0:01.08 /usr/libexec/tipsd
+_fpsd             1005   0.0  0.0 426953120   4192   ??  Ss    8:34PM   0:00.08 /usr/libexec/fairplaydeviceidentityd
+muzakeer          1004   0.0  0.0 426911808   4736   ??  S     8:33PM   0:00.07 /usr/libexec/naturallanguaged
+muzakeer          1003   0.0  0.2 427400096  37136   ??  S     8:33PM   0:00.71 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+muzakeer           999   0.0  0.0 410735248   2640   ??  S     8:33PM   0:00.05 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -x
+muzakeer           995   0.0  0.3 444325936  52096   ??  S     8:33PM   0:00.63 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-GB --service-sandbox-type=audio --message-loop-type-ui --subproc-heap-profiling --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=170
+muzakeer           984   0.0  0.0 426912576   1568   ??  S     8:33PM   0:00.02 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+muzakeer           986   0.0  0.7 1865329632 120736   ??  S     8:33PM   0:02.22 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=22 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1623049421 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=164
+muzakeer           968   0.0  0.0 426912832   5584   ??  S     8:33PM   0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+muzakeer           924   0.0  0.1 411350624  19744   ??  Ss    8:33PM   0:00.07 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+muzakeer           920   0.0  0.1 410908848  15152   ??  Ss    8:33PM   0:00.81 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+muzakeer           919   0.0  0.0 410763584   6992   ??  S     8:33PM   0:00.04 /usr/libexec/keychainsharingmessagingd
+muzakeer           917   0.0  0.0 426948272   7520   ??  S     8:33PM   0:00.08 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+muzakeer           913   0.0  0.1 426949856  10832   ??  S     8:33PM   0:00.16 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+muzakeer           912   0.0  0.0 426948752   7920   ??  S     8:33PM   0:00.20 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+muzakeer           911   0.0  0.0 410664464   7728   ??  Ss    8:33PM   0:00.28 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+muzakeer           910   0.0  0.0 410656272   7328   ??  Ss    8:33PM   0:00.28 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+root               909   0.0  0.0 426915888   2656   ??  Ss    8:33PM   0:00.02 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+muzakeer           908   0.0  0.0 410295408   2960   ??  Ss    8:33PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           907   0.0  0.0 410304624   2528   ??  Ss    8:33PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           906   0.0  0.1 410489280  12832   ??  Ss    8:33PM   0:00.07 /System/Library/PrivateFrameworks/TextToSpeechMauiSupport.framework/Versions/A/PlugIns/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("en-IN")
+muzakeer           905   0.0  0.1 426960048  10912   ??  Ss    8:33PM   0:00.06 /System/Applications/Calendar.app/Contents/Extensions/CalendarIntentsExtension.appex/Contents/MacOS/CalendarIntentsExtension
+muzakeer           904   0.0  0.0 426917104   5360   ??  Ss    8:33PM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+muzakeer           903   0.0  0.1 426955552  13216   ??  S     8:33PM   0:00.33 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+muzakeer           902   0.0  0.1 410340736  14640   ??  Ss    8:33PM   0:00.06 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("en-IN")
+muzakeer           901   0.0  0.0 410294384   2944   ??  Ss    8:33PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           900   0.0  0.0 410286192   2864   ??  Ss    8:33PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           899   0.0  0.1 410208048  10240   ??  Ss    8:33PM   0:00.02 /System/Library/PrivateFrameworks/TextToSpeech.framework/PlugIns/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("en-IN")
+muzakeer           898   0.0  0.1 426970352  16064   ??  S     8:33PM   0:00.34 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+muzakeer           897   0.0  0.1 426952880  14256   ??  S     8:33PM   0:00.29 /usr/libexec/adprivacyd
+muzakeer           896   0.0  0.0 410286192   2496   ??  Ss    8:33PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           895   0.0  0.0 34025632   2100   ??  Ss    8:33PM   0:00.33 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_x86_64.appex/Contents/MacOS/WardaSynthesizer_x86_64 -AppleLanguages ("en-IN")
+muzakeer           894   0.0  0.1 410358064   9920   ??  Ss    8:33PM   0:00.04 /System/Library/PrivateFrameworks/TextToSpeechKonaSupport.framework/Versions/A/PlugIns/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("en-IN")
+muzakeer           893   0.0  0.0 410294384   3072   ??  Ss    8:33PM   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           892   0.0  0.1 410479488  10704   ??  Ss    8:33PM   0:00.08 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_arm64.appex/Contents/MacOS/WardaSynthesizer_arm64 -AppleLanguages ("en-IN")
+root               891   0.0  0.0 426949312   6128   ??  Ss    8:33PM   0:00.71 /usr/libexec/triald_system
+muzakeer           890   0.0  0.1 426949344  12400   ??  S     8:33PM   0:00.47 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+muzakeer           886   0.0  0.0 410144896   2128   ??  Ss    8:33PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+muzakeer           887   0.0  0.0 427112224   4032   ??  S     8:33PM   0:00.07 /System/Cryptexes/App/usr/libexec/webpushd --machServiceName com.apple.webkit.webpushd.service
+muzakeer           883   0.0  0.0 426949712   4272   ??  S     8:33PM   0:00.94 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+muzakeer           878   0.0  0.4 431532144  65168   ??  Ss    8:33PM   0:05.99 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_softwareupdate    876   0.0  0.0 426912368   3200   ??  S     8:33PM   0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+_softwareupdate    873   0.0  0.0 426916432   3104   ??  S     8:33PM   0:00.07 /usr/sbin/cfprefsd agent
+_softwareupdate    872   0.0  0.0 426916560   3168   ??  S     8:33PM   0:00.76 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_softwareupdate    871   0.0  0.4 431524688  61824   ??  Ss    8:33PM   0:04.98 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_nsurlsessiond     864   0.0  0.0 411051792   4352   ??  Ss    8:33PM   0:23.30 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.privileged.xpc/Contents/MacOS/com.apple.StreamingUnzipService.privileged
+muzakeer           863   0.0  0.1 426949488   8560   ??  S     8:33PM   0:00.15 /usr/libexec/diagnosticextensionsd
+muzakeer           738   0.0  0.0 426951088   8352   ??  S     8:32PM   0:00.26 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+muzakeer           861   0.0  0.0 426916672   8080   ??  S     8:33PM   0:00.06 /usr/libexec/feedbackd
+muzakeer           787   0.0  0.1 426950400  14880   ??  S     8:32PM   0:00.42 /System/Library/CoreServices/diagnostics_agent
+muzakeer           776   0.0  0.1 426950848  11328   ??  S     8:32PM   0:06.04 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+muzakeer           855   0.0  0.2 410962016  39184   ??  Ss    8:33PM   0:00.44 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+muzakeer           854   0.0  0.2 410769920  31728   ??  S     8:33PM   0:01.70 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+root               852   0.0  0.0 411078640   6704   ??  Ss    8:33PM   0:00.18 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777234.175659.xpc/Contents/MacOS/com.apple.NRD.UpdateBrainService
+root               853   0.0  0.0 426949232   3072   ??  Ss    8:33PM   0:00.25 /usr/libexec/xpcroleaccountd -launchd
+muzakeer           851   0.0  0.1 427042992   9504   ??  S     8:33PM   0:00.75 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+_softwareupdate    850   0.0  0.1 426951488  10000   ??  Ss    8:33PM   0:00.21 /usr/libexec/NRDUpdated
+muzakeer           849   0.0  0.0 426911776   2576   ??  S     8:33PM   0:00.04 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+muzakeer           845   0.0  0.1 411508800  22816   ??  S     8:32PM   0:00.44 /System/Library/CoreServices/Family.app/Contents/MacOS/Family
+muzakeer           844   0.0  0.2 426976672  31616   ??  S     8:32PM   0:19.04 /usr/libexec/searchpartyuseragent
+muzakeer           839   0.0  0.1 410924976  11456   ??  Ss    8:32PM   0:00.28 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+root               843   0.0  0.0 426916544   3104   ??  S     8:32PM   0:00.63 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+muzakeer           842   0.0  0.1 426953616  11072   ??  S     8:32PM   0:00.21 /usr/libexec/keyboardservicesd
+muzakeer           829   0.0  0.0 426926864   6880   ??  Ss    8:32PM   0:00.27 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+_accessoryupdater   840   0.0  0.0 426951088   5056   ??  Ss    8:32PM   0:00.09 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDisplay.xpc/Contents/MacOS/UARPUpdaterServiceDisplay
+muzakeer           841   0.0  0.0 426912384   5760   ??  S     8:32PM   0:00.34 /usr/libexec/gamecontrolleragentd
+muzakeer           838   0.0  0.2 427119040  41344   ??  S     8:32PM   0:00.77 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+_gamecontrollerd   835   0.0  0.0 426916400   2336   ??  S     8:32PM   0:00.25 /usr/sbin/distnoted agent
+_fpsd              834   0.0  0.1 426931024  13776   ??  Ss    8:32PM   0:00.27 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+_accessoryupdater   830   0.0  0.0 426948496   4384   ??  Ss    8:32PM   0:00.12 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+muzakeer           828   0.0  0.1 426953120  12624   ??  S     8:32PM   0:00.25 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+muzakeer           832   0.0  0.1 411612448   9616   ??  Ss    8:32PM   0:00.13 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer           831   0.0  0.1 411612448  12224   ??  Ss    8:32PM   0:00.23 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer           783   0.0  0.1 426952304  10704   ??  S     8:32PM   0:00.37 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+muzakeer           789   0.0  0.1 426969536  17024   ??  S     8:32PM   0:01.43 /usr/libexec/remindd
+muzakeer           588   0.0  0.1 426967792  24368   ??  S     8:32PM   0:07.52 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+muzakeer           826   0.0  0.1 426953728  13344   ??  S     8:32PM   0:00.37 cloudphotod
+muzakeer           825   0.0  0.1 411413504  23376   ??  S     8:32PM   0:05.12 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+muzakeer           824   0.0  0.1 426956640  13296   ??  S     8:32PM   0:00.27 /usr/libexec/promotedcontentd
+_assetcache        823   0.0  0.1 426951632   8608   ??  Ss    8:32PM   0:00.14 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+muzakeer           822   0.0  0.1 426960368  15008   ??  SN    8:32PM   0:02.72 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+root               818   0.0  0.0 410903248   3056   ??  Ss    8:32PM   0:00.03 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd   816   0.0  0.0 426912688   4768   ??  Ss    8:32PM   0:00.04 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+root               815   0.0  0.0 426919408   3616   ??  Ss    8:32PM   0:00.04 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+muzakeer           812   0.0  0.0 426916464   2992   ??  S     8:32PM   0:00.02 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+muzakeer           814   0.0  0.2 426999344  27520   ??  S     8:32PM   0:01.19 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+muzakeer           810   0.0  0.0 426949648   5568   ??  S     8:32PM   0:00.05 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+root               811   0.0  0.0 426916448   5376   ??  Ss    8:32PM   0:00.16 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root               813   0.0  0.2 426951616  31360   ??  Ss    8:32PM  10:54.37 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+muzakeer           809   0.0  0.0 410182832   2560   ??  Ss    8:32PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+muzakeer           807   0.0  0.0 426912336   3952   ??  Ss    8:32PM   0:00.03 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+muzakeer           808   0.0  0.1 426901184  14672   ??  Ss    8:32PM   0:00.32 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+muzakeer           805   0.0  0.3 411076864  48800   ??  Ss    8:32PM   0:00.90 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+root               803   0.0  0.0 426916448   3824   ??  Ss    8:32PM   0:00.08 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+muzakeer           802   0.0  0.3 427008720  43584   ??  S     8:32PM   0:05.58 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+muzakeer           801   0.0  0.1 426979152  14912   ??  Ss    8:32PM   0:00.34 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+muzakeer           799   0.0  0.3 411778160  57904   ??  Ss    8:32PM   0:14.20 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer           800   0.0  0.2 411635088  33200   ??  Ss    8:32PM   0:03.74 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root               798   0.0  0.1 411743504  17424   ??  Ss    8:32PM   0:00.38 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer           797   0.0  0.1 426949968  10816   ??  S     8:32PM   0:00.10 /System/Library/CoreServices/ScopedBookmarkAgent
+muzakeer           795   0.0  0.1 426995936  19648   ??  S     8:32PM   0:00.77 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+muzakeer           791   0.0  0.0 426911936   5088   ??  S     8:32PM   0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+muzakeer           775   0.0  0.2 427003824  29168   ??  S     8:32PM   0:01.78 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+muzakeer           782   0.0  0.0 426944784   5376   ??  S     8:32PM   0:00.09 /System/Library/Image Capture/Support/icdd
+muzakeer           786   0.0  0.1 411369088  15216   ??  S     8:32PM   0:00.18 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+muzakeer           794   0.0  0.9 1865618448 155696   ??  S     8:32PM   0:00.97 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --subproc-heap-profiling --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=1565875306 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=92
+muzakeer           771   0.0  0.1 426949344   9984   ??  S     8:32PM   0:00.45 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+muzakeer           788   0.0  0.3 411689104  50224   ??  S     8:32PM   0:00.57 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+muzakeer           779   0.0  0.1 410825600  12480   ??  S     8:32PM   0:00.04 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+muzakeer           772   0.0  0.2 427000864  29760   ??  S     8:32PM   0:01.16 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+_neuralengine      768   0.0  0.0 426949536   5168   ??  Ss    8:32PM   0:00.06 /usr/libexec/aneuserd
+muzakeer           770   0.0  0.2 498973840  40896   ??  Ss    8:32PM   0:00.11 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root               769   0.0  0.1 426950928  11408   ??  Ss    8:32PM   0:01.56 /usr/libexec/aned
+muzakeer           766   0.0  0.2 426990368  30816   ??  S     8:32PM   0:19.40 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+muzakeer           765   0.0  0.6 444379136 104208   ??  S     8:32PM   0:31.34 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=network --subproc-heap-profiling --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=27
+muzakeer           764   0.0  1.0 444579712 168880   ??  S     8:32PM   2:44.84 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --subproc-heap-profiling --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=27
+root               763   0.0  0.1 411350608  15504   ??  Ss    8:32PM   0:00.23 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+muzakeer           760   0.0  0.1 426901984  16720   ??  Ss    8:32PM   0:00.34 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+muzakeer           759   0.0  0.0 426944624   7584   ??  S     8:32PM   0:00.06 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+muzakeer           758   0.0  0.0 443701728   3456   ??  S     8:32PM   0:00.01 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/muzakeer/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=134.0.6998.89 --handshake-fd=5
+muzakeer           755   0.0  0.0 426944736   5200   ??  Ss    8:32PM   0:00.04 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+muzakeer           754   0.0  0.1 426978800  20640   ??  S     8:32PM   0:00.59 /System/Library/Frameworks/Translation.framework/translationd
+muzakeer           753   0.0  0.1 431608416  16016   ??  Ss    8:32PM   0:00.43 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+muzakeer           752   0.0  0.1 431377216  17952   ??  Ss    8:32PM   0:01.44 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+muzakeer           751   0.0  0.1 427114928  18352   ??  S     8:32PM   0:00.36 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+muzakeer           749   0.0  0.0 426912368   3680   ??  S     8:32PM   0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+muzakeer           750   0.0  0.0 410323056   2960   ??  Ss    8:32PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+muzakeer           748   0.0  0.1 426915968  10976   ??  S     8:32PM   0:00.11 /usr/libexec/findmydevice-user-agent
+muzakeer           747   0.0  0.1 426951440  11280   ??  S     8:32PM   0:00.16 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+root               746   0.0  0.0 426928768   2144   ??  Ss    8:32PM   0:00.03 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+muzakeer           745   0.0  0.1 426955168  12048   ??  S     8:32PM   0:00.63 /System/Library/Frameworks/FinanceKit.framework/financed
+muzakeer           744   0.0  0.3 499327840  57728   ??  Ss    8:32PM   0:02.35 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+muzakeer           741   0.0  0.1 426952688   9280   ??  S     8:32PM   0:00.15 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+muzakeer           740   0.0  0.2 426981264  30784   ??  S     8:32PM   0:01.15 /usr/libexec/linkd
+muzakeer           737   0.0  0.1 426949504   9360   ??  S     8:32PM   0:01.68 /usr/libexec/swcd
+muzakeer           735   0.0  0.1 426950016  12576   ??  S     8:32PM   0:00.28 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+muzakeer           736   0.0  0.2 426958000  38064   ??  S     8:32PM   0:06.04 /usr/libexec/siriknowledged
+_accessoryupdater   732   0.0  0.1 426951328  12032   ??  Ss    8:32PM   0:04.30 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+muzakeer           731   0.0  0.1 431347472  20320   ??  S     8:32PM   0:02.59 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+muzakeer           728   0.0  0.2 427020096  34144   ??  Ss    8:32PM   0:00.16 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+muzakeer           729   0.0  0.1 426953808  14560   ??  S     8:32PM   0:00.57 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+muzakeer           724   0.0  0.4 427222256  62576   ??  Ss    8:32PM   0:01.77 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+_assetcache        727   0.0  0.0 426951264   5280   ??  Ss    8:32PM   0:00.06 /usr/libexec/AssetCache/AssetCache
+muzakeer           726   0.0  0.2 426984320  29392   ??  S     8:32PM   0:00.96 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+muzakeer           723   0.0  0.1 426951648   8656   ??  S     8:32PM   0:00.14 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+muzakeer           721   0.0  0.2 427006480  33168   ??  Ss    8:32PM   0:02.90 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+muzakeer           673   0.0  0.1 426956864  18528   ??  S     8:32PM   0:00.59 /usr/libexec/appleaccountd
+muzakeer           722   0.0  0.1 411616608  18304   ??  Ss    8:32PM   0:01.03 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+muzakeer           720   0.0  0.1 426953088  19840   ??  S     8:32PM   0:00.72 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+muzakeer           717   0.0  0.1 426955200  14528   ??  S     8:32PM   0:00.57 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+muzakeer           716   0.0  0.1 426961280  22752   ??  S     8:32PM   0:00.50 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+muzakeer           715   0.0  0.3 427236304  58352   ??  Ss    8:32PM   0:04.44 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+muzakeer           714   0.0  0.2 426968544  35824   ??  S     8:32PM   0:02.59 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+muzakeer           712   0.0  0.1 426956032  21136   ??  S     8:32PM   0:01.50 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+muzakeer           713   0.0  0.0 426912704   2176   ??  S     8:32PM   0:00.02 /System/Library/CoreServices/ReportCrash agent
+muzakeer           711   0.0  0.1 426956144  14080   ??  S     8:32PM   0:00.27 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+muzakeer           703   0.0  0.1 427002192  20592   ??  Ss    8:32PM   0:00.23 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+muzakeer           710   0.0  0.1 426953776  10000   ??  Ss    8:32PM   0:00.09 /System/Library/Frameworks/ImageIO.framework/Versions/A/XPCServices/ImageIOXPCService.xpc/Contents/MacOS/ImageIOXPCService
+muzakeer           709   0.0  0.0 410306240   2656   ??  Ss    8:32PM   0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+muzakeer           708   0.0  0.1 427080336  11840   ??  S     8:32PM   0:00.11 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+muzakeer           707   0.0  0.4 429064720  74352   ??  S     8:32PM   0:07.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+muzakeer           706   0.0  0.0 427057168   6288   ??  S     8:32PM   0:00.13 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+muzakeer           705   0.0  0.1 426948560   8832   ??  S     8:32PM   0:00.05 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+muzakeer           704   0.0  0.1 426906848  11984   ??  S     8:32PM   0:00.16 /usr/libexec/avconferenced
+muzakeer           702   0.0  0.0 426911776   3040   ??  S     8:32PM   0:00.02 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+muzakeer           701   0.0  0.1 410760816   8720   ??  Ss    8:32PM   0:00.08 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+_applepay          568   0.0  0.0 426916256   7232   ??  Ss    8:32PM   0:00.07 /usr/libexec/seld
+muzakeer           699   0.0  0.1 426954224  19776   ??  S     8:32PM   0:00.87 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+muzakeer           700   0.0  0.9 412672256 145616   ??  S     8:32PM   0:14.95 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+muzakeer           696   0.0  0.1 426917744   8960   ??  S     8:32PM   0:00.75 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+muzakeer           697   0.0  0.2 427164160  36432   ??  S     8:32PM   0:02.42 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+muzakeer           695   0.0  0.1 426952624  15360   ??  S     8:32PM   0:00.46 /usr/libexec/fmfd
+muzakeer           698   0.0  0.4 410900800  70432   ??  Ss    8:32PM   0:00.95 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+muzakeer           693   0.0  0.1 426948832   8544   ??  S     8:32PM   0:00.40 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+muzakeer           692   0.0  0.0 426913408   3648   ??  S     8:32PM   0:00.04 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+muzakeer           694   0.0  0.1 426926864  10368   ??  Ss    8:32PM   0:00.35 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+muzakeer           687   0.0  0.1 426949600   9136   ??  S     8:32PM   0:00.12 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+muzakeer           690   0.0  0.0 426913440   5264   ??  S     8:32PM   0:00.06 /usr/libexec/seserviced
+muzakeer           686   0.0  0.0 426916144   7488   ??  S     8:32PM   0:00.18 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+muzakeer           688   0.0  0.1 426966864  15616   ??  S     8:32PM   0:00.22 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+muzakeer           691   0.0  0.1 427073504  10752   ??  S     8:32PM   0:01.27 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+muzakeer           682   0.0  0.0 426945008   6320   ??  S     8:32PM   0:00.05 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+muzakeer           680   0.0  0.1 426950176  12912   ??  S     8:32PM   0:00.22 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+muzakeer           676   0.0  0.1 426954592  13904   ??  S     8:32PM   0:00.19 /usr/libexec/milod
+muzakeer           683   0.0  0.2 426996432  37152   ??  S     8:32PM   0:18.88 /usr/libexec/duetexpertd
+muzakeer           681   0.0  0.1 426950624  17888   ??  S     8:32PM   0:00.79 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+muzakeer           595   0.0  0.2 427103120  39408   ??  S     8:32PM   0:02.85 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+muzakeer           674   0.0  0.2 426961200  33120   ??  S     8:32PM   0:01.13 /usr/libexec/knowledge-agent
+muzakeer           678   0.0  0.0 426949456   5232   ??  S     8:32PM   0:00.07 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+muzakeer           675   0.0  0.2 411504112  27536   ??  S     8:32PM   0:00.58 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+muzakeer           665   0.0  0.1 426950976  13552   ??  S     8:32PM   0:00.14 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+muzakeer           668   0.0  0.1 426956336  17568   ??  S     8:32PM   0:01.02 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+muzakeer           671   0.0  0.3 426959200  44816   ??  S     8:32PM   0:13.88 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+muzakeer           667   0.0  0.1 426948688  11712   ??  S     8:32PM   0:00.41 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+muzakeer           670   0.0  0.0 426954944   7952   ??  S     8:32PM   0:00.12 /System/Library/CoreServices/pbs
+muzakeer           669   0.0  0.1 426950048  13168   ??  S     8:32PM   0:07.67 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+muzakeer           666   0.0  0.0 34022740   2464   ??  Ss    8:32PM   0:00.75 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+_nearbyd           677   0.0  0.1 426960000   9376   ??  Ss    8:32PM   0:00.65 /usr/libexec/nearbyd
+root               672   0.0  0.1 426966976  16352   ??  Ss    8:32PM   0:01.71 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+muzakeer           661   0.0  0.1 410856528  13856   ??  Ss    8:32PM   0:00.07 /System/Library/ExtensionKit/Extensions/WallpaperImageExtension.appex/Contents/MacOS/WallpaperImageExtension
+muzakeer           662   0.0  0.0 426948896   7840   ??  S     8:32PM   0:00.30 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+muzakeer           663   0.0  0.1 426964912  22544   ??  S     8:32PM   0:01.12 /usr/libexec/replayd
+muzakeer           650   0.0  0.2 426961488  41456   ??  S     8:32PM   0:02.42 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+muzakeer           652   0.0  0.1 426953552  14000   ??  S     8:32PM   0:00.09 /usr/libexec/intelligentroutingd
+muzakeer           664   0.0  0.0 426948672   6816   ??  S     8:32PM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+muzakeer           655   0.0  0.1 426950048  12848   ??  S     8:32PM   0:00.12 /usr/libexec/ContinuityCaptureAgent server
+muzakeer           656   0.0  0.1 426968928  17952   ??  S     8:32PM   0:00.22 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+muzakeer           646   0.0  0.1 410758768  13248   ??  S     8:32PM   0:02.02 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+muzakeer           648   0.0  0.2 427070800  36480   ??  S     8:32PM   0:03.19 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+muzakeer           657   0.0  0.0 426960032   7760   ??  S     8:32PM   0:00.08 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+muzakeer           642   0.0  0.1 426953680  14848   ??  S     8:32PM   0:00.36 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+muzakeer           653   0.0  0.1 426948128  13360   ??  S     8:32PM   0:00.19 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+muzakeer           660   0.0  0.0 426917104   5712   ??  Ss    8:32PM   0:00.01 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root               659   0.0  0.0 426912400   2928   ??  Ss    8:32PM   0:00.02 /usr/libexec/wallpaperexportd
+muzakeer           647   0.0  0.1 426949120  10896   ??  S     8:32PM   0:00.11 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+muzakeer           643   0.0  0.1 426954544  17952   ??  S     8:32PM   0:00.38 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+muzakeer           649   0.0  0.2 427149904  34320   ??  S     8:32PM   0:05.64 /System/Library/CoreServices/iconservicesagent
+muzakeer           651   0.0  0.1 426967456  24064   ??  S     8:32PM   0:01.11 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+root               658   0.0  0.1 411749200   9824   ??  Ss    8:32PM   0:00.49 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+root               654   0.0  0.0 426917664   2656   ??  Ss    8:32PM   0:00.02 automountd
+muzakeer           645   0.0  0.2 427490768  30176   ??  S     8:32PM   0:00.88 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+muzakeer           639   0.0  0.0 426972304   6816   ??  S     8:32PM   0:00.43 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+muzakeer           641   0.0  0.3 427169008  48416   ??  S     8:32PM   0:00.88 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+muzakeer           644   0.0  0.1 426901184  14624   ??  Ss    8:32PM   0:00.36 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+root               640   0.0  0.1 426926192  13104   ??  Ss    8:32PM   0:00.49 /usr/sbin/filecoordinationd
+muzakeer           638   0.0  0.2 411531072  26832   ??  S     8:32PM   0:00.42 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+muzakeer           634   0.0  0.1 426958064  14064   ??  S     8:32PM   0:00.18 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+muzakeer           637   0.0  0.2 411772560  39232   ??  S     8:32PM   0:10.00 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+muzakeer           633   0.0  0.1 426954272  10048   ??  S     8:32PM   0:00.14 /usr/libexec/dmd
+muzakeer           632   0.0  0.4 412024384  64496   ??  S     8:32PM   0:07.64 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+muzakeer           631   0.0  0.1 426954144  15456   ??  S     8:32PM   0:00.19 /usr/libexec/findmylocateagent
+muzakeer           629   0.0  0.1 426949696  14320   ??  S     8:32PM   0:03.54 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+muzakeer           630   0.0  0.3 411688640  49232   ??  S     8:32PM   0:00.78 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+muzakeer           625   0.0  0.3 426965024  52320   ??  S     8:32PM   0:02.25 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+muzakeer           626   0.0  0.1 426950992  14176   ??  S     8:32PM   0:00.15 /System/Library/CoreServices/sharedfilelistd
+muzakeer           628   0.0  0.4 412094224  63232   ??  S     8:32PM   0:06.73 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+muzakeer           627   0.0  0.2 411817712  37984   ??  S     8:32PM   0:09.75 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+muzakeer           624   0.0  0.7 412024816 113600   ??  S     8:32PM   0:02.19 /System/Applications/Passwords.app/Contents/MacOS/Passwords
+muzakeer           623   0.0  0.7 412095680 110096   ??  S     8:32PM   0:02.63 /System/Applications/Messages.app/Contents/MacOS/Messages
+muzakeer           622   0.0  0.2 426972000  34544   ??  S     8:32PM   0:02.31 /usr/libexec/sharingd
+muzakeer           620   0.0  0.1 426962496  18064   ??  S     8:32PM   0:17.70 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+muzakeer           621   0.0  0.4 431806576  61104   ??  S     8:32PM   0:31.41 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+muzakeer           618   0.0  0.1 427408448  19568   ??  S     8:32PM   0:01.13 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+root               617   0.0  0.0 426949232   7088   ??  Ss    8:32PM   0:00.06 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+muzakeer           619   0.0  0.4 412090256  69600   ??  S     8:32PM   0:05.89 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+muzakeer           616   0.0  0.1 426950016  12384   ??  S     8:32PM   0:00.19 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+muzakeer           615   0.0  0.1 426958528  14016   ??  S     8:32PM   0:00.34 /usr/libexec/neagent
+muzakeer           614   0.0  0.2 426977120  40288   ??  S     8:32PM   0:00.75 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+muzakeer           613   0.0  0.2 426964752  26320   ??  S     8:32PM   0:01.49 /usr/libexec/transparencyd
+muzakeer           612   0.0  0.0 426949136   7696   ??  S     8:32PM   0:00.16 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+muzakeer           611   0.0  0.1 426965104  22928   ??  S     8:32PM   0:02.43 /usr/libexec/networkserviceproxy
+root               610   0.0  0.1 426966672  16608   ??  Ss    8:32PM   0:00.35 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+muzakeer           608   0.0  0.0 426911936   3024   ??  S     8:32PM   0:00.03 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+muzakeer           609   0.0  0.0 426911472   2880   ??  S     8:32PM   0:00.02 /usr/libexec/icloudmailagent
+muzakeer           607   0.0  0.1 426951776  15888   ??  S     8:32PM   0:12.71 /usr/libexec/triald
+muzakeer           606   0.0  0.2 426970000  41472   ??  S     8:32PM   0:02.24 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+muzakeer           605   0.0  0.1 426965088  15664   ??  S     8:32PM   0:00.63 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+muzakeer           604   0.0  0.2 427101648  39536   ??  S     8:32PM   0:00.26 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+muzakeer           603   0.0  0.7 427024912 116112   ??  S     8:32PM   0:06.88 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+muzakeer           602   0.0  0.1 426949024   8960   ??  S     8:32PM   0:00.09 /usr/libexec/inputanalyticsd
+_appleevents       599   0.0  0.0 426916400   2288   ??  S     8:32PM   0:00.25 /usr/sbin/distnoted agent
+muzakeer           601   0.0  0.1 411227248  17248   ??  S     8:32PM   0:00.31 /usr/libexec/mlhostd
+muzakeer           596   0.0  0.1 426948016  11664   ??  S     8:32PM   0:01.37 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+muzakeer           597   0.0  0.1 426958832  15840   ??  S     8:32PM   0:00.57 /usr/libexec/pkd
+muzakeer           592   0.0  0.2 426960576  32096   ??  S     8:32PM   0:06.09 /usr/libexec/secinitd
+muzakeer           593   0.0  0.2 411379520  41744   ??  S     8:32PM   0:00.24 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+muzakeer           591   0.0  2.0 444964240 338096   ??  S     8:32PM   4:32.87 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+muzakeer           583   0.0  0.0 426916496   5184   ??  S     8:32PM   0:00.02 /System/Library/CoreServices/APFSUserAgent
+muzakeer           589   0.0  0.1 426985760  17504   ??  S     8:32PM   0:00.26 /System/Library/CoreServices/talagentd
+muzakeer           582   0.0  0.1 426962576  18160   ??  S     8:32PM   0:00.35 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+muzakeer           587   0.0  0.2 426967472  30688   ??  S     8:32PM   0:02.72 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+muzakeer           586   0.0  0.1 426962032  23344   ??  S     8:32PM   0:00.78 /usr/sbin/usernoted
+muzakeer           585   0.0  0.2 426952656  25456   ??  S     8:32PM   0:00.44 /usr/libexec/rapportd
+muzakeer           590   0.0  0.2 411783952  29056   ??  S     8:32PM   0:27.75 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+muzakeer           581   0.0  0.2 426966624  26320   ??  S     8:32PM   0:01.00 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+muzakeer           579   0.0  0.2 426976256  34368   ??  S     8:32PM   0:02.41 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+muzakeer           578   0.0  0.1 427045872  19312   ??  S     8:32PM   0:03.84 /usr/libexec/nsurlsessiond
+muzakeer           580   0.0  0.5 426990192  82784   ??  S     8:32PM   0:06.10 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+muzakeer           577   0.0  0.1 426949216  14288   ??  S     8:32PM   0:00.26 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+_gamecontrollerd   567   0.0  0.0 426916784   6768   ??  Ss    8:32PM   0:00.40 /usr/libexec/gamecontrollerd
+muzakeer           576   0.0  0.1 426961008  15664   ??  S     8:32PM   0:04.84 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+muzakeer           571   0.0  0.2 426967072  31440   ??  S     8:32PM   0:10.54 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+muzakeer           574   0.0  0.1 426926832   9328   ??  S     8:32PM   0:00.29 /usr/libexec/pboard
+muzakeer           566   0.0  0.1 426951488  21536   ??  S     8:32PM   0:03.18 /usr/libexec/UserEventAgent (Aqua)
+muzakeer           570   0.0  0.2 426952400  28992   ??  S     8:32PM   0:00.58 /System/Library/CoreServices/audioaccessoryd
+root               575   0.0  0.0 426948880   6416   ??  Ss    8:32PM   0:00.12 /usr/libexec/mobileactivationd
+muzakeer           573   0.0  0.1 411234496  15056   ??  S     8:32PM   0:00.76 /usr/sbin/universalaccessd launchd -s
+muzakeer           572   0.0  0.3 411656912  58064   ??  S     8:32PM   0:00.42 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+muzakeer           565   0.0  0.1 410764688  11776   ??  S     8:32PM   0:00.55 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+root               564   0.0  0.0 426912368   2720   ??  Ss    8:32PM   0:00.04 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+root               559   0.0  0.0 426917584   4944   ??  Ss    8:32PM   0:00.05 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+_audiomxd          557   0.0  0.1 426889984  12976   ??  Ss    8:32PM   0:05.24 /usr/libexec/audiomxd
+root               556   0.0  0.0 410286192   2480   ??  Ss    8:32PM   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               554   0.0  0.2 426961888  26960   ??  Ss    8:23PM   0:32.40 /usr/libexec/PerfPowerServices
+root               530   0.0  0.0 427057152   8224   ??  S     5:25AM   0:00.17 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+root               529   0.0  0.1 426951280  12976   ??  S     5:25AM   0:00.17 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+root               510   0.0  0.1 426953952  13456   ??  Ss   12:16AM   0:00.50 /System/Library/CoreServices/SubmitDiagInfo server-init
+root               496   0.0  0.1 426950000  11424   ??  Ss   11:15PM   0:00.12 /usr/libexec/ospredictiond
+root               455   0.0  0.0 426917488   3520   ??  Ss   Sun09PM   0:00.18 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               451   0.0  0.0 426912704   3952   ??  Ss   Sun09PM   0:00.03 /System/Library/CoreServices/ReportCrash daemon
+root               416   0.0  0.1 426953872  21472   ??  S    Sun09PM   0:03.20 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               408   0.0  0.1 410900000  11584   ??  Ss   Sun09PM   0:00.14 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+root               406   0.0  0.0 426911888   5488   ??  Ss   Sun09PM   0:00.06 /usr/libexec/applekeystored
+muzakeer           405   0.0  0.1 426955120  15856   ??  S    Sun09PM   0:10.74 /usr/libexec/trustd --agent
+muzakeer           401   0.0  0.2 426971328  26368   ??  S    Sun09PM   0:05.44 /usr/libexec/secd
+muzakeer           396   0.0  0.0 426916448   3168   ??  S    Sun09PM   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+muzakeer           394   0.0  0.1 426960448  18016   ??  S    Sun09PM   0:01.50 /usr/libexec/lsd
+muzakeer           393   0.0  0.1 426917488   8848   ??  S    Sun09PM   0:07.97 /usr/sbin/cfprefsd agent
+muzakeer           390   0.0  0.0 426916400   7808   ??  S    Sun09PM   0:04.85 /usr/sbin/distnoted agent
+root               388   0.0  0.1 426950848  12368   ??  Ss   Sun09PM   0:00.78 /usr/libexec/powerdatad
+root               387   0.0  0.0 426912704   1728   ??  Ss   Sun09PM   0:00.14 /usr/libexec/mmaintenanced
+root               386   0.0  0.1 426950352  12864   ??  Ss   Sun09PM   0:07.33 /usr/libexec/ASPCarryLog
+_driverkit         384   0.0  0.0 426851520    864   ??  Ss   Sun09PM   0:00.04 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000d29 com.apple.IOUserBluetoothSerialDriver
+_rmd               383   0.0  0.0 410735440   4208   ??  Ss   Sun09PM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedConfigurationFilesSubscriber.xpc/Contents/MacOS/ManagedConfigurationFilesSubscriber
+_rmd               382   0.0  0.0 410734752   3728   ??  Ss   Sun09PM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+_rmd               381   0.0  0.0 410735376   5696   ??  Ss   Sun09PM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SoftwareUpdateSubscriber.xpc/Contents/MacOS/SoftwareUpdateSubscriber
+_rmd               380   0.0  0.0 410734784   3808   ??  Ss   Sun09PM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+_rmd               379   0.0  0.0 410735360   3808   ??  Ss   Sun09PM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_rmd               378   0.0  0.0 410734768   3792   ??  Ss   Sun09PM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+_rmd               376   0.0  0.0 410735296   5696   ??  Ss   Sun09PM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+_rmd               375   0.0  0.0 410734768   3824   ??  Ss   Sun09PM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+_rmd               374   0.0  0.0 426916400   5616   ??  S    Sun09PM   0:00.34 /usr/sbin/distnoted agent
+_rmd               373   0.0  0.0 410734816   3824   ??  Ss   Sun09PM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+root               371   0.0  0.0 410636240   3952   ??  Ss   Sun09PM   0:00.06 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+root               372   0.0  0.1 426949184  14208   ??  Ss   Sun09PM   0:00.17 /System/Library/CoreServices/osanalyticshelper server-init
+_rmd               370   0.0  0.1 426950480  11008   ??  Ss   Sun09PM   0:00.16 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+root               369   0.0  0.0 410745904   4720   ??  Ss   Sun09PM   0:00.09 /usr/libexec/online-auth-agent
+_fpsd              367   0.0  0.0 426915296   4512   ??  Ss   Sun09PM   0:00.58 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+root               366   0.0  0.0 426951824   8256   ??  Ss   Sun09PM   0:00.14 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+_applepay          360   0.0  0.0 426916400   5776   ??  S    Sun09PM   0:00.34 /usr/sbin/distnoted agent
+_applepay          359   0.0  0.0 410796736   6544   ??  Ss   Sun09PM   0:00.03 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
+_applepay          358   0.0  0.1 426950944  14368   ??  Ss   Sun09PM   0:00.92 /usr/libexec/nfcd
+root               357   0.0  0.1 426959312  13728   ??  Ss   Sun09PM   0:04.17 /usr/libexec/gamepolicyd
+_netbios           353   0.0  0.0 426912752   4464   ??  SNs  Sun09PM   0:00.27 /usr/sbin/netbiosd
+_captiveagent      352   0.0  0.0 426917264   6288   ??  Ss   Sun09PM   0:00.09 /usr/libexec/captiveagent
+_accessoryupdater   345   0.0  0.0 426916400   4144   ??  S    Sun09PM   0:00.35 /usr/sbin/distnoted agent
+root               344   0.0  0.0 426950624   5568   ??  S    Sun09PM   0:00.26 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               174   0.0  0.0 426911808   2544   ??  Ss   Sun09PM   0:00.08 /usr/libexec/usbd
+_nsurlsessiond     343   0.0  0.0 426916400   4032   ??  S    Sun09PM   0:00.35 /usr/sbin/distnoted agent
+root               160   0.0  0.0 426916160   6048   ??  Ss   Sun09PM   0:00.80 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+root               342   0.0  0.0 426953568   7136   ??  Ss   Sun09PM   0:00.22 /usr/libexec/symptomsd-diag
+root               338   0.0  0.0 426912016   3248   ??  Ss   Sun09PM   0:01.75 /usr/libexec/sysmond
+root               171   0.0  0.0 426912384   1792   ??  Ss   Sun09PM   0:00.04 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+root               335   0.0  0.1 426949600  10192   ??  Ss   Sun09PM   0:00.31 /usr/libexec/countryd
+root               334   0.0  0.1 426950144  16608   ??  Ss   Sun09PM   0:01.95 /usr/libexec/wifianalyticsd
+root               332   0.0  0.1 426962736  13632   ??  Ss   Sun09PM   0:03.23 /usr/libexec/rtcreportingd
+root               328   0.0  0.1 426954416  14512   ??  Ss   Sun09PM   0:03.12 /usr/libexec/wifip2pd
+_spotlight         326   0.0  0.0 426916400   5232   ??  S    Sun09PM   0:00.36 /usr/sbin/distnoted agent
+_ctkd              322   0.0  0.0 426912512   4800   ??  Ss   Sun09PM   0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+_cmiodalassistants   323   0.0  0.0 426948016   5904   ??  S    Sun09PM   0:00.09 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               320   0.0  0.1 426962720  12752   ??  Ss   Sun09PM   0:00.31 /usr/sbin/systemsoundserverd
+_cmiodalassistants   318   0.0  0.0 426916432   5904   ??  S    Sun09PM   0:00.07 /usr/sbin/cfprefsd agent
+_cmiodalassistants   314   0.0  0.0 426949968   7792   ??  S    Sun09PM   0:00.05 /usr/libexec/secinitd
+_cmiodalassistants   312   0.0  0.1 426952576  19520   ??  S    Sun09PM   0:00.55 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               313   0.0  0.0 426950352   6400   ??  Ss   Sun09PM   0:00.52 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+root               311   0.0  0.0 426911904   5776   ??  Ss   Sun09PM   0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+_softwareupdate    310   0.0  0.0 426916400   3808   ??  S    Sun09PM   0:00.38 /usr/sbin/distnoted agent
+root               309   0.0  0.1 426949712  13712   ??  Ss   Sun09PM   0:00.09 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+_softwareupdate    308   0.0  0.3 431415616  46352   ??  Ss   Sun09PM   1:06.09 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root               303   0.0  0.1 426949680  11008   ??  Ss   Sun09PM   0:00.13 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+root               304   0.0  1.3 418187168 216544   ??  Ss   Sun09PM   8:09.49 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+_iconservices      110   0.0  0.0 426949168   6320   ??  Ss   Sun09PM   0:00.36 /System/Library/CoreServices/iconservicesd
+root               300   0.0  0.1 426986384  20864   ??  Ss   Sun09PM   0:00.55 /usr/libexec/searchpartyd
+root               299   0.0  0.1 426949168  11104   ??  Ss   Sun09PM   0:00.38 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+root               298   0.0  0.0 426912368   4208   ??  Ss   Sun09PM   0:00.03 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+root               296   0.0  0.0 410331440   6656   ??  Ss   Sun09PM   0:00.02 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+root               294   0.0  0.0 426951616   7904   ??  Ss   Sun09PM   0:00.27 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root               293   0.0  0.0 426911808   6960   ??  Ss   Sun09PM   0:00.05 /usr/libexec/bootinstalld
+_modelmanagerd     291   0.0  0.1 426968448  17408   ??  Ss   Sun09PM   0:00.50 /usr/libexec/modelmanagerd
+_driverkit         290   0.0  0.0 426851648    912   ??  Ss   Sun09PM   0:00.26 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000be6 com.apple.AppleUserHIDDrivers
+_driverkit         289   0.0  0.2 426909952  36560   ??  Ss   Sun09PM   2:52.43 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000bde com.apple.DriverKit-AppleBCMWLAN
+_softwareupdate    103   0.0  0.1 426953920  14800   ??  Ss   Sun09PM   0:00.80 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+_driverkit         288   0.0  0.0 426851440    640   ??  Ss   Sun09PM   0:00.05 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000be1 com.apple.DriverKit-IOUserDockChannelSerial
+_coreaudiod        286   0.0  0.1 426948688   9344   ??  Ss   Sun09PM   0:00.03 /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/Versions/A/XPCServices/AppleDeviceQueryService.xpc/Contents/MacOS/AppleDeviceQueryService
+root               287   0.0  0.0 411436736   6496   ??  Ss   Sun09PM   0:00.06 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+root               285   0.0  0.1 426949648  10112   ??  Ss   Sun09PM   0:01.08 /usr/libexec/audioanalyticsd
+_appleevents       284   0.0  0.1 426949248   8816   ??  Ss   Sun09PM   0:00.14 /System/Library/CoreServices/appleeventsd --server
+_cmiodalassistants   282   0.0  0.1 426949504   9632   ??  Ss   Sun09PM   0:00.07 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+_cmiodalassistants   281   0.0  0.0 426882864   7184   ??  Ss   Sun09PM   0:00.06 /usr/libexec/cameracaptured
+_cmiodalassistants   280   0.0  0.1 426953792  12144   ??  Ss   Sun09PM   0:00.76 /usr/sbin/appleh13camerad
+root               279   0.0  0.0 410790832   8208   ??  Ss   Sun09PM   0:05.95 /usr/libexec/audioclocksyncd
+root               277   0.0  0.0 426951136   7488   ??  Ss   Sun09PM   0:02.64 /System/Library/CoreServices/TimeMachine/backupd
+root               276   0.0  0.1 426948752  11312   ??  Ss   Sun09PM   0:01.09 /usr/libexec/findmybeaconingd
+root               278   0.0  0.0 426911776   6448   ??  Ss   Sun09PM   0:00.04 /usr/libexec/colorsyncd
+root               275   0.0  0.0 426912336   3264   ??  Ss   Sun09PM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+_coreaudiod        273   0.0  0.0 410313840   5856   ??  Ss   Sun09PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               269   0.0  0.1 426950496   9840   ??  Ss   Sun09PM   0:02.36 /usr/sbin/WirelessRadioManagerd
+_locationd         266   0.0  0.0 426948016   6880   ??  S    Sun09PM   0:00.06 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               262   0.0  0.0 426916480   7056   ??  Ss   Sun09PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root               261   0.0  0.3 426957872  53072   ??  Ss   Sun09PM   0:12.03 /usr/libexec/syspolicyd
+root               260   0.0  0.1 426949216   8688   ??  Ss   Sun09PM   0:00.99 /usr/libexec/securityd_system
+root               259   0.0  0.0 410191024   3056   ??  Ss   Sun09PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+_coreaudiod        253   0.0  0.0 410182736   3776   ??  Ss   Sun09PM   0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_analyticsd        164   0.0  0.2 426960384  28208   ??  Ss   Sun09PM   0:05.79 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+root               243   0.0  0.1 426958000  13600   ??  Ss   Sun09PM   0:03.31 /usr/libexec/storagekitd
+_cmiodalassistants   221   0.0  0.0 426916400   5312   ??  S    Sun09PM   0:00.32 /usr/sbin/distnoted agent
+root               232   0.0  0.0 426916416   7408   ??  Ss   Sun09PM   0:00.28 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               231   0.0  0.0 426915936   4992   ??  Ss   Sun09PM   0:00.02 /usr/libexec/colorsync.displayservices
+_locationd         220   0.0  0.0 426916432   6464   ??  S    Sun09PM   0:00.05 /usr/sbin/cfprefsd agent
+_locationd         218   0.0  0.1 426949968   9376   ??  S    Sun09PM   0:00.04 /usr/libexec/secinitd
+root               217   0.0  0.1 426949984   9552   ??  Ss   Sun09PM   0:00.05 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+_locationd         210   0.0  0.0 426916400   5616   ??  S    Sun09PM   0:00.33 /usr/sbin/distnoted agent
+_locationd         209   0.0  0.1 426953136  19648   ??  S    Sun09PM   0:00.63 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root              3331   0.0  0.0 33867104   3848 s002  R+   10:17PM   0:00.01 ps aux
+_windowserver      189   0.0  0.0 426916400   5552   ??  S    Sun09PM   0:00.32 /usr/sbin/distnoted agent
+_coreaudiod        197   0.0  0.0 426916400   4816   ??  S    Sun09PM   0:00.34 /usr/sbin/distnoted agent
+root               185   0.0  0.0 426916400   4944   ??  S    Sun09PM   0:00.42 /usr/sbin/distnoted agent
+root               179   0.0  0.0 426912352   3664   ??  S    Sun09PM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+_networkd          206   0.0  0.1 426963616  20720   ??  Ss   Sun09PM   0:05.64 /usr/libexec/symptomsd
+root               208   0.0  0.0 426911968   5344   ??  Ss   Sun09PM   0:00.02 /usr/libexec/ApplicationFirewall/socketfilterfw
+root               207   0.0  0.1 426952464  15600   ??  Ss   Sun09PM   0:00.47 /usr/libexec/findmydeviced
+root               169   0.0  0.3 426973152  53136   ??  Ss   Sun09PM   1:15.20 /usr/libexec/mobileassetd
+root               195   0.0  0.1 426949952  10928   ??  Ss   Sun09PM   0:00.07 /usr/libexec/secinitd
+root               194   0.0  0.0 426917024   7904   ??  Ss   Sun09PM   0:00.05 /usr/libexec/trustdFileHelper
+_hidd              183   0.0  0.0 426911776   4400   ??  Ss   Sun09PM   0:00.31 /usr/libexec/hidd
+_mdnsresponder     184   0.0  0.1 426962592  19424   ??  Ss   Sun09PM   0:16.43 /usr/sbin/mDNSResponder
+root               182   0.0  0.1 426948896   8752   ??  Ss   Sun09PM   0:00.43 /usr/libexec/eligibilityd
+root               181   0.0  0.1 426950480  13040   ??  Ss   Sun09PM   0:01.52 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_coreaudiod        176   0.0  0.3 426979008  54896   ??  Ss   Sun09PM   0:06.33 /usr/sbin/coreaudiod
+_biome             173   0.0  0.1 426961696  16912   ??  Ss   Sun09PM   0:00.90 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root               178   0.0  0.1 426948176  11232   ??  Ss   Sun09PM   0:01.12 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               175   0.0  0.1 426950384  11984   ??  Ss   Sun09PM   0:00.23 /usr/libexec/biometrickitd --launchd
+root               172   0.0  0.0 426916160   5056   ??  Ss   Sun09PM   0:00.24 /usr/libexec/apfsd
+root               170   0.0  0.2 426954240  28192   ??  Ss   Sun09PM   1:57.45 /usr/libexec/airportd
+root               168   0.0  0.0 410643040   4832   ??  Ss   Sun09PM   0:00.02 /usr/libexec/cryptexd
+_locationd         128   0.0  0.2 427065856  32656   ??  Ss   Sun09PM   0:43.12 /usr/libexec/locationd
+root               167   0.0  0.1 426949584  16944   ??  Ss   Sun09PM   0:01.38 /usr/libexec/nehelper
+_nsurlsessiond     166   0.0  0.1 426999792  18528   ??  Ss   Sun09PM   1:09.45 /usr/libexec/nsurlsessiond --privileged
+root               163   0.0  0.1 411083744  10112   ??  Ss   Sun09PM   0:00.12 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root               162   0.0  0.0 426916144   5840   ??  Ss   Sun09PM   0:00.26 /usr/libexec/logd_helper
+root               161   0.0  0.1 426949184  13440   ??  Ss   Sun09PM   0:00.26 /usr/libexec/PowerUIAgent
+root               159   0.0  0.0 426912416   5232   ??  Ss   Sun09PM   0:00.05 /usr/libexec/powerexperienced
+root               158   0.0  0.1 426958640  21792   ??  Ss   Sun09PM   0:01.77 /usr/libexec/lsd runAsRoot
+root               157   0.0  0.1 426943248  16608   ??  Ss   Sun09PM   0:01.13 /System/Library/CoreServices/coreservicesd
+root               154   0.0  0.1 426958016  19424   ??  Ss   Sun09PM   0:46.62 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               155   0.0  0.1 426959360  22016   ??  Ss   Sun09PM   0:39.86 /usr/libexec/runningboardd
+_distnote          134   0.0  0.0 426916400   7248   ??  Ss   Sun09PM   0:02.99 /usr/sbin/distnoted daemon
+_timed             124   0.0  0.0 426949360   7712   ??  Ss   Sun09PM   0:00.98 /usr/libexec/timed
+_usbmuxd           125   0.0  0.1 426958608   9760   ??  Ss   Sun09PM   0:00.16 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+muzakeer           153   0.0  0.5 412028256  89008   ??  Ss   Sun09PM   0:02.55 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               152   0.0  0.0 426916144   1824   ??  Ss   Sun09PM   0:00.04 aslmanager
+root               151   0.0  0.1 426916592  10448   ??  Ss   Sun09PM   0:12.72 /usr/sbin/cfprefsd daemon
+root               150   0.0  0.1 426959568  20480   ??  Ss   Sun09PM   0:04.00 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root                96   0.0  0.0 426912960   3792   ??  Ss   Sun09PM   0:00.16 /usr/libexec/IOMFB_bics_daemon
+root               139   0.0  0.0 426949792   6560   ??  Ss   Sun09PM   0:00.15 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               129   0.0  0.1 426949712  11344   ??  Ss   Sun09PM   0:00.92 /usr/libexec/nesessionmanager
+root               116   0.0  0.0 426917088   2656   ??  Ss   Sun09PM   0:02.15 /usr/sbin/syslogd
+root                94   0.0  0.0 426911840   2240   ??  Ss   Sun09PM   0:00.02 endpointsecurityd
+root               115   0.0  0.2 426966608  27168   ??  Ss   Sun09PM   0:03.82 /usr/libexec/coreduetd
+root               141   0.0  0.0 426916352   5344   ??  Ss   Sun09PM   0:00.11 /usr/libexec/usermanagerd -t 15
+root                90   0.0  0.1 426959216  13008   ??  Ss   Sun09PM   0:01.31 /usr/sbin/systemstats --daemon
+root               132   0.0  0.1 426957280  24016   ??  Ss   Sun09PM   0:25.78 /usr/libexec/dasd
+root               148   0.0  0.2 426948832  29936   ??  Ss   Sun09PM   0:00.27 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root                87   0.0  0.1 426954656  15072   ??  Ss   Sun09PM   0:01.10 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               137   0.0  0.0 426912304   1200   ??  Ss   Sun09PM   0:00.09 /usr/libexec/dirhelper
+root               102   0.0  0.1 426916144   9712   ??  Ss   Sun09PM   0:00.11 /usr/libexec/keybagd -t 15
+root               111   0.0  0.1 426952896  22688   ??  Ss   Sun09PM   0:00.77 /usr/libexec/kernelmanagerd
+root               100   0.0  0.0 426949008   5776   ??  Ss+  Sun09PM   0:00.04 /usr/libexec/remoted
+root                98   0.0  0.1 426950288   8832   ??  Ss   Sun09PM   0:00.19 /usr/libexec/amfid
+root                93   0.0  0.1 426953968  14384   ??  Ss   Sun09PM   0:23.44 /usr/libexec/configd
+root               143   0.0  0.2 426965952  25376   ??  Ss   Sun09PM   0:03.27 /usr/sbin/bluetoothd
+root               109   0.0  0.4 427008336  60656   ??  Ss   Sun09PM   6:34.37 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               105   0.0  0.0 426912432   4048   ??  Ss   Sun09PM   0:00.31 /usr/libexec/watchdogd
+root                83   0.0  0.0 426912448   4032   ??  Ss   Sun09PM   0:00.05 /usr/libexec/smd
+root               147   0.0  0.1 426949824  14976   ??  Ss   Sun09PM   0:01.41 /usr/libexec/AirPlayXPCHelper
+root                86   0.0  0.1 426922512  10368   ??  Ss   Sun09PM   1:04.11 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root                84   0.0  0.1 426951360  22032   ??  Ss   Sun09PM   0:04.38 /usr/libexec/UserEventAgent (System)
+root               145   0.0  0.0 426950032   6512   ??  Ss   Sun09PM   0:00.07 /usr/libexec/sandboxd
+root               140   0.0  0.0 426912352   2768   ??  Ss   Sun09PM   0:00.01 /usr/sbin/KernelEventAgent
+root               138   0.0  0.0 426915952   6448   ??  Ss   Sun09PM   0:00.06 /System/Library/CoreServices/logind
+root               135   0.0  0.0 426948688   4720   ??  Ss   Sun09PM   0:00.03 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root               131   0.0  0.0 426912336   3872   ??  Ss   Sun09PM   0:00.02 autofsd
+root               144   0.0  0.0 426912016   6832   ??  Ss   Sun09PM   0:07.90 /usr/sbin/notifyd
+root               126   0.0  0.1 426950448  12688   ??  Ss   Sun09PM   0:01.31 /usr/sbin/securityd -i
+root               122   0.0  0.1 427029968  21344   ??  Ss   Sun09PM   0:05.87 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               120   0.0  0.1 426954224  21168   ??  Ss   Sun09PM   0:23.90 /usr/libexec/opendirectoryd
+root               119   0.0  0.0 426949168   7648   ??  Ss   Sun09PM   0:01.66 /usr/libexec/thermalmonitord
+root               112   0.0  0.0 426948896   8240   ??  Ss   Sun09PM   0:01.29 /usr/libexec/diskarbitrationd
+root               213   0.0  0.1 426949360   8640   ??  Ss   Sun09PM   0:00.46 /usr/sbin/mDNSResponderHelper
+muzakeer          3307   0.0  0.1 426934752  25136   ??  S    10:17PM   0:00.09 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+muzakeer          3306   0.0  1.7 1867025792 277344   ??  S    10:17PM   0:01.63 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/134.0.6998.89/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --extension-process --lang=en-GB --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=124 --time-ticks-at-unix-epoch=-1742222201133428 --launch-time-ticks=7680011059 --shared-files --field-trial-handle=1718379636,r,17261828130863465869,1116970988400014750,262144 --variations-seed-version=20250314-130103.800000 --seatbelt-client=181
+muzakeer          3299   0.0  0.1 426934752  23760   ??  S    10:17PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+muzakeer          3298   0.0  0.1 426934752  23760   ??  S    10:17PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+muzakeer          3292   0.0  0.1 426934752  25152   ??  S    10:17PM   0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+muzakeer          3233   0.0  0.2 426934752  27184   ??  S    10:16PM   0:00.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+muzakeer          2878   0.0  0.1 411114752  19744   ??  Ss   10:07PM   0:00.08 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/ThemeWidgetControlViewService.xpc/Contents/MacOS/ThemeWidgetControlViewService
+root              2767   0.0  0.1 410872848   8944 s000  T    10:04PM   0:00.79 top
+root              2361   0.0  0.1 411337264  12592   ??  Ss    9:38PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              2362   0.0  0.1 411082288  12416   ??  Ss    9:38PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+muzakeer          2357   0.0  0.4 411825488  67136   ??  S     9:35PM   0:00.45 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+muzakeer          2303   0.0  0.2 426955984  27216   ??  S     9:32PM   0:00.78 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+muzakeer          2304   0.0  0.2 426963632  25296   ??  S     9:32PM   0:00.23 /System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd
+muzakeer          2301   0.0  0.1 426949488  10048   ??  Ss    9:31PM   0:00.06 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+_neuralengine     2298   0.0  0.0 426913168   2096   ??  Ss    9:31PM   0:00.02 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+_neuralengine     2299   0.0  0.0 426916400   5568   ??  S     9:31PM   0:00.13 /usr/sbin/distnoted agent
+root              2297   0.0  0.0 426913168   2400   ??  Ss    9:31PM   0:00.04 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+muzakeer          2294   0.0  0.1 426948912  12320   ??  S     9:31PM   0:00.09 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+muzakeer          2290   0.0  0.0 426911808   7024   ??  S     9:31PM   0:00.07 /usr/libexec/metrickitd
+muzakeer          2286   0.0  0.0 410603248   2080   ??  S     9:30PM   0:00.04 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+root              2271   0.0  0.1 411743504  16416   ??  Ss    9:30PM   0:00.06 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
