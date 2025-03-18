@@ -14,10 +14,10 @@ while true; do
     TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
     
     # Get CPU usage
-    CPU_USAGE=$(top -bn1 | grep "Cpu(s)" | awk '{print $2 + $4}')
+    CPU_USAGE=$(top -l  2 | grep -E "^CPU" | tail -1 | awk '{ print $3 + $5"%" }')
     
     # Get Memory usage
-    MEM_USAGE=$(free | awk '/Mem/ {printf "%.2f", $3/$2 * 100}')
+    MEM_USAGE=$(top -l 1 | grep -E "^Phys")
     
     # Write data to the log file
     echo "$TIMESTAMP |  $CPU_USAGE  |  $MEM_USAGE" >> "$LOG_FILE"
